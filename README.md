@@ -70,7 +70,7 @@ Machine Learning and Software Engineer based in Munich. I work on 3D computer vi
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/youssef-sherif-youssef/">LinkedIn</a> · 
+<a href="https://www.linkedin.com/in/youssef-sherif-145a551b4/">LinkedIn</a> · 
 <a href="mailto:ysherif.youssef@gmail.com">ysherif.youssef@gmail.com</a> · 
 Munich, Germany
 </p>
